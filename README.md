@@ -1,5 +1,5 @@
 
-#Basic Linear Regression
+Basic Linear Regression
 
 This project demonstrates a simple linear regression analysis using a dataset containing information about per capita income over several years.
 The notebook walks through loading the data, performing exploratory data analysis (EDA), fitting a linear regression model, and making predictions.
